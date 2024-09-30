@@ -1,0 +1,1 @@
+export const UpiOptions=["okaxis","okhdfcbank","okicicibank","oksbi"];
